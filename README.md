@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vivek Rajor
-- 👀 I’m interested in Coding
+- 👀 I’m interested in New things and Coding
 - 🌱 I’m currently learning Java Framework
 
 
